@@ -1,0 +1,49 @@
+title: Classifieds Tech Playbook
+items:
+  - name: Домашняя страница
+    href: index.md
+  - name: Процессы и роли
+    items:
+      - name: Дизайн-ревью
+        items:
+          - name: Регламент
+            href: process/design-review/definition.md
+          - name: Шаблон дизайн-документа
+            href: process/design-review/template.md
+          - name: Рекомендации
+            href: process/design-review/hint.md
+      - name: Управление инцидентами
+        items:
+          - name: Регламент
+            href: process/incidents/definition.md
+          - name: Post-Mortem
+            href: process/incidents/postmortem.md
+          - name: Разбор
+            href: process/incidents/lsr.md
+          - name: Заведующий инцидентами
+            href: process/incidents/incident_manager.md
+      - name: Тимлид
+        href: process/teamlead.md
+      - name: Техлид большого проекта
+        items:
+          - name: Кто это такой и зачем он нам
+            href: process/techlead/techlead.md
+          - name: Настольная книга техлида
+            href: process/techlead/techlead-workbook.md
+  - name: Принципы разработки
+    items:
+      - name: Общие Принципы
+        href: principles/manifest.md
+      - name: Первичный анализ задач
+        href: principles/primary-analysis.md
+      - name: Принципы кросс-сервисной разработки
+        href: principles/crosservice-development.md
+      - name: Ставим задачи правильно
+        href: principles/task-definition-checklist.md
+      - name: Управление техдолгом
+        href: principles/tech-debt.md
+  - name: Саморазвитие
+    items:
+      - name: Образовательные материалы
+        href: education/books.md
+base: .
