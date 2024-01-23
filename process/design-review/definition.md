@@ -1,6 +1,3 @@
----
-vcsPath: classifieds/docs/tech/process/design-review/definition.md
----
 # Дизайн ревью
 
 

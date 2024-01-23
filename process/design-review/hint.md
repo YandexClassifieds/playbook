@@ -1,6 +1,3 @@
----
-vcsPath: classifieds/docs/tech/process/design-review/hint.md
----
 # Рекомендации как писать дизайн-документы
 
 ## Вопросы на подумать

@@ -1,6 +1,3 @@
----
-vcsPath: classifieds/docs/tech/process/design-review/template.md
----
 # %%Название проекта%%
 
 ---
