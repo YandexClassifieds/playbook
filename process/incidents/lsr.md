@@ -1,3 +1,6 @@
+---
+vcsPath: classifieds/docs/tech/process/incidents/lsr.md
+---
 # Разбор инцидента (LSR)
 
 Целью разбора является получение списка задач, которые приведут к:

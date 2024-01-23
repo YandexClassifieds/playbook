@@ -1,3 +1,6 @@
+---
+vcsPath: classifieds/docs/tech/process/techlead/techlead-workbook.md
+---
 # В помощь техлидам
 
 

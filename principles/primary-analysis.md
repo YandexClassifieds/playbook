@@ -1,3 +1,6 @@
+---
+vcsPath: classifieds/docs/tech/principles/primary-analysis.md
+---
 # Первичный анализ задач
 
 К разработке часто приходят с вопросом “помогите, как сделать вот такую задачу?”

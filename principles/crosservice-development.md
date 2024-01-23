@@ -1,3 +1,7 @@
+---
+vcsPath: classifieds/docs/tech/principles/crosservice-development.md
+title: Принципы кроссервисной разработки
+---
 
 ## Abstract
 
