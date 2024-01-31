@@ -46,4 +46,4 @@ items:
     items:
       - name: Образовательные материалы
         href: education/books.md
-base: .
+base: classifieds/docs/tech
