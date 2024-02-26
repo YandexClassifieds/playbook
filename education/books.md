@@ -21,3 +21,20 @@
 - Фредерик Брукс — Мифический человеко-месяц
 - Патрик Ленсиони — Пять пороков команды
 - Дэниел Пинк — Драйв: Что на самом деле нас мотивирует
+
+## Роль техлида проекта
+Список поможет подготовиться к реализации больших проектов на лидирующей роли. [Что это за роль?](../process/techlead/techlead). Некоторые книги дублируются с секциями про бэкенд и тимлидерство, потому что начинающему техлиду они особо будут полезны.
+
+- [Наш гайд](../process/techlead/techlead-workbook.md) + [доклад](https://www.youtube.com/watch?v=y0IY4PK-fiQ)
+- Архитектура (для начала достаточно первых трёх пунктов)
+    - Richards, Mark, and Neal Ford — Fundamentals of Software Architecture: An Engineering Approach
+    - [[Architecture view model]] \+ [C4 Model](https://en.wikipedia.org/wiki/C4_model) \+ [4\+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model). Да, прямо на википедии.
+    - Khononov, Vlad — Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy
+    - Bass, Len — Software Architecture in Practice
+    - Ford, Neal — Software Architecture: The Hard Parts: Modern Trade-off Analyses for Distributed Architectures
+- System Design
+    - Martin Kleppman — Designing Data Intensive Applications
+- Delivery (достаточно первого пункта, второй и третий уже для глубокого погружения)
+    - [“Как доделывать дела и запускать проекты вовремя.” Кинжал.](https://kinzhal.media/domique/)
+    - Элияху Голдратт — Цель
+    - Ryan Singer — Shape Up
