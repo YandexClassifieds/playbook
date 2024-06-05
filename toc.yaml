@@ -47,4 +47,3 @@ items:
       - name: Образовательные материалы
         href: education/books.md
 base: .
-deepBase: 0
