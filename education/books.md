@@ -28,7 +28,7 @@
 - [Наш гайд](../process/techlead/techlead-workbook.md) + [доклад](https://www.youtube.com/watch?v=y0IY4PK-fiQ)
 - Архитектура (для начала достаточно первых трёх пунктов)
     - Richards, Mark, and Neal Ford — Fundamentals of Software Architecture: An Engineering Approach
-    - [[Architecture view model]] \+ [C4 Model](https://en.wikipedia.org/wiki/C4_model) \+ [4\+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model). Да, прямо на википедии.
+    - [Architecture view model](https://en.wikipedia.org/wiki/View_model) \+ [C4 Model](https://en.wikipedia.org/wiki/C4_model) \+ [4\+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model). Да, прямо на википедии.
     - Khononov, Vlad — Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy
     - Bass, Len — Software Architecture in Practice
     - Ford, Neal — Software Architecture: The Hard Parts: Modern Trade-off Analyses for Distributed Architectures
