@@ -19,6 +19,8 @@
 ### Жизненный цикл инцидента
 Фреймворк делит жизненный цикл инцидента на этапы. Ключевая идея в том, что каждый инцидент должен последовательно дойти до этапа устранения причин и, как следствие, _не повториться_. Каждый этап сопровождается инструкциями и подсказками, позволяющим участникам работы над инцидентом сконцентрироваться на сути происходящего.
 
+![Жизненный цикл](./attachments/incident_lifecycle_diagram.excalidraw.png)
+
 - Обнаружение
 - Классификация
 - Устранение    
@@ -71,3 +73,4 @@
 - [Building Secure and Reliable Systems](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf) (Глава 16)
 - [High Severity Incident Management Program](https://www.gremlin.com/community/tutorials/how-to-establish-a-high-severity-incident-management-program/)
 - [ITIL](https://wiki.en.it-processmaps.com/index.php/Incident_Management)
+- [Наш доклад об управлении инцидентами на CodeFest 2024](https://www.youtube.com/watch?v=aNb1G4qOiNE)

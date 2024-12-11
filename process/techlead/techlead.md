@@ -81,4 +81,5 @@
 ## Полезные ссылки
 - [Настольная книга тех. лида](techlead-workbook.md)
 - [Наш доклад про тех. лидов на TechleadConf 2023](https://youtu.be/y0IY4PK-fiQ)
+- [Наш доклад про путь техлида на проекте на Delivery Meetup 2024](https://www.youtube.com/watch?v=wX7OXL9K1mU)
 - [Еще на тему от коллег из MindBox](https://habr.com/ru/companies/mindbox/articles/741448/)
