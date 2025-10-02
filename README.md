@@ -20,6 +20,9 @@
   * Техлид большого проекта
     * [Кто это такой и зачем он нам](process/techlead/techlead.md)
     * [Настольная книга техлида](process/techlead/techlead-workbook.md)
+    * Описание сложности проектов
+      * [Описание](process/techlead/projects-complexity-overview.md)
+      * [Авто.ру](autoru/projects-complexity.md)
 * Принципы разработки
   * [Общие Принципы](principles/manifest.md)
   * [Первичный анализ задач](principles/primary-analysis.md)

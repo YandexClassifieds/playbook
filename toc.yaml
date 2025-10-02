@@ -30,6 +30,12 @@ items:
             href: process/techlead/techlead.md
           - name: Настольная книга техлида
             href: process/techlead/techlead-workbook.md
+          - name: Описание сложности проектов
+            items:
+              - name: Описание
+                href: process/techlead/projects-complexity-overview.md
+              - name: Авто.ру
+                href: autoru/projects-complexity.md
   - name: Принципы разработки
     items:
       - name: Общие Принципы

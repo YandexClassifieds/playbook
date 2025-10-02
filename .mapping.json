@@ -4,6 +4,7 @@
   "CONTRIBUTING":"classifieds/docs/tech/external/CONTRIBUTING",
   "LICENSE":"classifieds/docs/tech/external/LICENSE",
   "README.md":"classifieds/docs/tech/external/README.md",
+  "autoru/projects-complexity.md":"classifieds/docs/tech/external/autoru/projects-complexity.md",
   "education/books.md":"classifieds/docs/tech/external/education/books.md",
   "principles/crosservice-development.md":"classifieds/docs/tech/external/principles/crosservice-development.md",
   "principles/legacy-diagram.svg":"classifieds/docs/tech/external/principles/legacy-diagram.svg",
@@ -21,6 +22,7 @@
   "process/incidents/lsr.md":"classifieds/docs/tech/external/process/incidents/lsr.md",
   "process/incidents/postmortem.md":"classifieds/docs/tech/external/process/incidents/postmortem.md",
   "process/teamlead.md":"classifieds/docs/tech/external/process/teamlead.md",
+  "process/techlead/projects-complexity-overview.md":"classifieds/docs/tech/external/process/techlead/projects-complexity-overview.md",
   "process/techlead/techlead-workbook.md":"classifieds/docs/tech/external/process/techlead/techlead-workbook.md",
   "process/techlead/techlead.md":"classifieds/docs/tech/external/process/techlead/techlead.md",
   "toc.yaml":"classifieds/docs/tech/external/toc.yaml"
