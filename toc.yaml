@@ -32,10 +32,8 @@ items:
             href: process/techlead/techlead-workbook.md
           - name: Описание сложности проектов
             items:
-              - name: Описание
+              - name: Что такое «проект»?
                 href: process/techlead/projects-complexity-overview.md
-              - name: Авто.ру
-                href: autoru/projects-complexity.md
   - name: Принципы разработки
     items:
       - name: Общие Принципы
