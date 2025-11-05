@@ -40,6 +40,8 @@ items:
         href: principles/manifest.md
       - name: Первичный анализ задач
         href: principles/primary-analysis.md
+      - name: Формулировка проблем (НЖЯ)
+        href: principles/problem-formulation.md
       - name: Принципы кросс-сервисной разработки
         href: principles/crosservice-development.md
       - name: Ставим задачи правильно

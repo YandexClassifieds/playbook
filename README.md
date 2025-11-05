@@ -25,6 +25,7 @@
 * Принципы разработки
   * [Общие Принципы](principles/manifest.md)
   * [Первичный анализ задач](principles/primary-analysis.md)
+  * [Формулировка проблем (НЖЯ)](principles/problem-formulation.md)
   * [Принципы кросс-сервисной разработки](principles/crosservice-development.md)
   * [Ставим задачи правильно](principles/task-definition-checklist.md)
   * [Управление техдолгом](principles/tech-debt.md)
