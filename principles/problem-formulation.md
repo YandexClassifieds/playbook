@@ -217,10 +217,10 @@
 
 ### Основные ресурсы
 - [Статья: Когда проблема — не проблема. НЖЯ — инструмент Теории ограничений](https://unconstrained.tilda.ws/tdocs/kogda-problema--ne-problema-nzhya--instrument-teorii-ogranichenii-ssy2mkjxjzymmmd)
-- [Доклад на TeamLead Conf 2024](https://youtu.be/3pklvegzF9A)
+- [Доклад](https://youtu.be/3pklvegzF9A) Александры Брызгаловой на TeamLead Conf 2024
 
 ### Книги
-- "Основы ТОС" — Одед Коуэн, Елена Федурко. [Скачать](https://jing.yandex-team.ru/files/alexkonygin/01_Kniga_Osonovy_Teorii_Ogranichenij_2_ed_RUS_for_web_20_March_2017.pdf)
+- "Основы ТОС" — Одед Коуэн, Елена Федурко. 
 - "TOC Handbook" — Джеймс Ф. Кокс, Джон Шлайер
 
 ---
