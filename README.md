@@ -22,6 +22,9 @@
     * [Настольная книга техлида](process/techlead/techlead-workbook.md)
     * Описание сложности проектов
       * [Что такое «проект»?](process/techlead/projects-complexity-overview.md)
+  * Squad health check external
+    * [Squad health check](process/squad_health_check/squad_health_check_external.md)
+    * [Как проводить](process/squad_health_check/shc_how_to_external.md)
 * Принципы разработки
   * [Общие Принципы](principles/manifest.md)
   * [Первичный анализ задач](principles/primary-analysis.md)

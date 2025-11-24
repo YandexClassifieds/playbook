@@ -34,6 +34,12 @@ items:
             items:
               - name: Что такое «проект»?
                 href: process/techlead/projects-complexity-overview.md
+      - name: Squad health check external
+        items:
+          - name: Squad health check
+            href: process/squad_health_check/squad_health_check_external.md
+          - name: Как проводить
+            href: process/squad_health_check/shc_how_to_external.md
   - name: Принципы разработки
     items:
       - name: Общие Принципы
