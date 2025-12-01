@@ -17,9 +17,10 @@
     * [Разбор](process/incidents/lsr.md)
     * [Заведующий инцидентами](process/incidents/incident_manager.md)
   * [Тимлид](process/teamlead.md)
-  * Техлид большого проекта
+  * Техлид проекта
     * [Кто это такой и зачем он нам](process/techlead/techlead.md)
     * [Настольная книга техлида](process/techlead/techlead-workbook.md)
+    * [Знания и навыки техлида](process/techlead/techlead-skillset.md)
     * Описание сложности проектов
       * [Что такое «проект»?](process/techlead/projects-complexity-overview.md)
   * Squad health check external

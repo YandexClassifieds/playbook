@@ -24,12 +24,14 @@ items:
             href: process/incidents/incident_manager.md
       - name: Тимлид
         href: process/teamlead.md
-      - name: Техлид большого проекта
+      - name: Техлид проекта
         items:
           - name: Кто это такой и зачем он нам
             href: process/techlead/techlead.md
           - name: Настольная книга техлида
             href: process/techlead/techlead-workbook.md
+          - name: Знания и навыки техлида
+            href: process/techlead/techlead-skillset.md
           - name: Описание сложности проектов
             items:
               - name: Что такое «проект»?
