@@ -29,5 +29,6 @@
   "process/techlead/techlead-skillset.md":"classifieds/docs/tech/external/process/techlead/techlead-skillset.md",
   "process/techlead/techlead-workbook.md":"classifieds/docs/tech/external/process/techlead/techlead-workbook.md",
   "process/techlead/techlead.md":"classifieds/docs/tech/external/process/techlead/techlead.md",
-  "toc.yaml":"classifieds/docs/tech/external/toc.yaml"
+  "toc.yaml":"classifieds/docs/tech/external/toc.yaml",
+  "yfm-build-manifest.json":"classifieds/docs/tech/external/yfm-build-manifest.json"
 }
