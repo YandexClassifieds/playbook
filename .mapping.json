@@ -4,6 +4,7 @@
   "CONTRIBUTING":"classifieds/docs/tech/external/CONTRIBUTING",
   "LICENSE":"classifieds/docs/tech/external/LICENSE",
   "README.md":"classifieds/docs/tech/external/README.md",
+  "crawler-manifest.json":"classifieds/docs/tech/external/crawler-manifest.json",
   "education/books.md":"classifieds/docs/tech/external/education/books.md",
   "principles/_assets/puml-e65c8ca997e7.svg":"classifieds/docs/tech/external/principles/_assets/puml-e65c8ca997e7.svg",
   "principles/crosservice-development.md":"classifieds/docs/tech/external/principles/crosservice-development.md",
