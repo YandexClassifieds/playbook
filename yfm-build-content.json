@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "contentHashes": {
+    ".yfm": {
+      "hash": "sha256-a866a44800108253c978c1809265ca3b0d3e9728ba1dff5b0add8ad7c1568dd0",
+      "size": 59
+    },
+    "education/books.md": {
+      "hash": "sha256-8475303c06d9168e004e616810c68b468a934e9b1ead66fd82f4aeeff0e468d0",
+      "size": 3817
+    },
+    "index.md": {
+      "hash": "sha256-4dcca24ce25cf4a54861de572b2c077bfb35f3b9e0aae1eb6fdd2c70376310e6",
+      "size": 701
+    },
+    "principles/_assets/puml-e65c8ca997e7.svg": {
+      "hash": "sha256-5f71a7667120ea2efd408781b079d90962c166b7529b3fbbb9e9223eef930c80",
+      "size": 12703
+    },
+    "principles/crosservice-development.md": {
+      "hash": "sha256-b85429a3554a1a2009d9ab9522812477be625dd48ef8bf660ed9eb4819679e4c",
+      "size": 9711
+    },
+    "principles/legacy-diagram.svg": {
+      "hash": "sha256-7b87c2f06b24d719344b5d0bc1b932f53608eafdd972c846fbc085c5f4cbfdaf",
+      "size": 6362
+    },
+    "principles/manifest.md": {
+      "hash": "sha256-03c7ec049504a3146e4909b82fefe8bfd0c30cca8cc55aa393bc856164aa138b",
+      "size": 8745
+    },
+    "principles/primary-analysis.md": {
+      "hash": "sha256-91388930a0b82a8c68d11f4d8a25168eeb1dc9a42c6e125beab0e24088503cd6",
+      "size": 9703
+    },
+    "principles/problem-formulation.md": {
+      "hash": "sha256-43fdc1473f7b3bba574181ab14ef9e7ca0ae7d412987a5b60cf850c72231ebb9",
+      "size": 26474
+    },
+    "principles/project-cartoon.png": {
+      "hash": "sha256-83a419a878beb3c731addc0960d0614285f6f3088488eda397101d7f17674ff9",
+      "size": 161692
+    },
+    "principles/task-definition-checklist.md": {
+      "hash": "sha256-751045f195ec1c8c17d1b1ec7b0aa3e650c01e9e729e0953aaefed57b0b78428",
+      "size": 11461
+    },
+    "principles/tech-debt.md": {
+      "hash": "sha256-a039c732d7713c07980661d8760ce5266bd7f789f09a335c4731362d0678c594",
+      "size": 18967
+    },
+    "process/design-review/definition.md": {
+      "hash": "sha256-d10d06c9d01c4540d504a9b20c220dc05301036a66030eaf0050d53c97eaaecf",
+      "size": 1578
+    },
+    "process/design-review/hint.md": {
+      "hash": "sha256-df5b6801ed424032b92aa440c5cfe3d5c1c9d1519abaa1a4be26b8556731cc00",
+      "size": 6856
+    },
+    "process/design-review/template.md": {
+      "hash": "sha256-48cc92b6c37b096dff24d7736aa32e2cef2f4c25f6ad2224e843ddc9abe95402",
+      "size": 4606
+    },
+    "process/incidents/attachments/incident_lifecycle_diagram.excalidraw.png": {
+      "hash": "sha256-5d87d0f00a63fd9329e15ee074182f8d3dacb2dbdcd70e4a8f0ac72d4a08b149",
+      "size": 874960
+    },
+    "process/incidents/definition.md": {
+      "hash": "sha256-3956fcd5f08266743de3ab694f0601c5f8a6cdcf3d2c845b1415a533e8ea12bb",
+      "size": 10767
+    },
+    "process/incidents/incident_manager.md": {
+      "hash": "sha256-534afc5d35310bcd581c00c22ed6ec7062903551938cd50c02af998288350b7f",
+      "size": 2610
+    },
+    "process/incidents/lsr.md": {
+      "hash": "sha256-6be46a8504284f89a866276963ea9ff0a13c18115e725cc952102a56a42bc6be",
+      "size": 4865
+    },
+    "process/incidents/postmortem.md": {
+      "hash": "sha256-cd4b11bb1f01d2d5b423c204178eefd1d7d14890d3bbbf47aa44f8b700327790",
+      "size": 6118
+    },
+    "process/squad_health_check/shc_how_to_external.md": {
+      "hash": "sha256-cec1680c073181000f562e9d74162e707f8a39f5ba25de4b9c70312820f263f8",
+      "size": 17328
+    },
+    "process/squad_health_check/squad_health_check_external.md": {
+      "hash": "sha256-1b5d324006ea6b6f5fc129083e43bb54d4cd6b40957b2f072a62e439334d91ed",
+      "size": 6212
+    },
+    "process/teamlead.md": {
+      "hash": "sha256-cc8256801ba4be302e7dbeeda130a273114e0143e1de8de2b1da750702cd8177",
+      "size": 4085
+    },
+    "process/techlead/projects-complexity-overview.md": {
+      "hash": "sha256-aa1e46fa7b9b73dcf8e7e3a9e9085234b6e96360239d4b0fd69e7ceb27d7ab3f",
+      "size": 1547
+    },
+    "process/techlead/techlead-skillset.md": {
+      "hash": "sha256-f002a0bc6174ab310c363d6edd6596bf11bb3e092e7c7912d1599daf4a5d827b",
+      "size": 6831
+    },
+    "process/techlead/techlead-workbook.md": {
+      "hash": "sha256-2b8197613f000c7aff32061a852141c7c750b59b003a5993e161a1416b1be76e",
+      "size": 27526
+    },
+    "process/techlead/techlead.md": {
+      "hash": "sha256-8c1179b71b000b49be9b8fe0de51cd2aeec63db5615b77ea1ae19132cb0b5cc8",
+      "size": 8408
+    },
+    "toc.yaml": {
+      "hash": "sha256-45b17ac86d270e0dbfc6e2e2fbe5ac6e977a4e9456536a812cd49c6a293a43f1",
+      "size": 2757
+    }
+  },
+  "pageAssets": {
+    "principles/primary-analysis.md": [
+      "principles/project-cartoon.png"
+    ],
+    "principles/problem-formulation.md": [
+      "principles/_assets/puml-e65c8ca997e7.svg"
+    ],
+    "principles/tech-debt.md": [
+      "principles/legacy-diagram.svg"
+    ],
+    "process/incidents/definition.md": [
+      "process/incidents/attachments/incident_lifecycle_diagram.excalidraw.png"
+    ]
+  }
+}

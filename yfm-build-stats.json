@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "cli": {
+    "version": "5.48.1",
+    "node": "v24.14.1",
+    "platform": "linux",
+    "arch": "x64",
+    "osRelease": "5.4.210-39.4"
+  },
+  "build": {
+    "startedAt": "2026-07-02T14:52:15.076Z",
+    "finishedAt": "2026-07-02T14:52:25.192Z",
+    "durationMs": 10116,
+    "phasesMs": {
+      "prepare": 7286,
+      "entries": 2789,
+      "finalize": 41
+    },
+    "outputFormat": "md",
+    "langs": [
+      "ru"
+    ],
+    "inputDir": "/home/sandbox/.ya/build/build_root/8mtr/00000b/classifieds/docs/tech/__s",
+    "outputDir": "/home/sandbox/.ya/build/build_root/8mtr/00000b/classifieds/docs/tech/__docsbuild",
+    "features": [
+      "addAlternateMeta",
+      "addMapFile",
+      "addMetadataMeta",
+      "addResourcesMeta",
+      "allowCustomResources",
+      "allowHtml",
+      "apply-presets",
+      "buildContent",
+      "buildManifest",
+      "buildStats",
+      "copyOnWrite",
+      "crawlerManifest",
+      "interfaceFeedback",
+      "interfaceSearch",
+      "interfaceToc",
+      "multilineTermDefinitions",
+      "quiet",
+      "sanitizeHtml"
+    ],
+    "memoryUsageMb": 228,
+    "worker": {
+      "maxOldSpace": 0
+    }
+  },
+  "counters": {
+    "tocs": 1,
+    "entriesPlanned": 22,
+    "entriesProcessed": 22,
+    "entriesByExtension": {
+      ".md": 22
+    },
+    "entriesByLang": {
+      "ru": 22
+    },
+    "headings": 0,
+    "contentBytes": 0,
+    "graph": {
+      "entries": 22,
+      "sources": 0,
+      "resources": 4,
+      "missed": 0,
+      "edges": 4
+    },
+    "warnings": 0,
+    "errors": 0,
+    "warningsByCode": {},
+    "errorsByCode": {}
+  },
+  "output": {
+    "files": 210,
+    "totalBytes": 13570153,
+    "bytesByExtension": {
+      ".json": 13580,
+      ".yaml": 32832,
+      ".md": 1377061,
+      "<noext>": 412,
+      ".png": 10686917,
+      ".svg": 38130,
+      ".make": 64,
+      ".yfm": 59,
+      ".jpeg": 1421098
+    }
+  }
+}

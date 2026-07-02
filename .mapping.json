@@ -31,5 +31,7 @@
   "process/techlead/techlead-workbook.md":"classifieds/docs/tech/external/process/techlead/techlead-workbook.md",
   "process/techlead/techlead.md":"classifieds/docs/tech/external/process/techlead/techlead.md",
   "toc.yaml":"classifieds/docs/tech/external/toc.yaml",
-  "yfm-build-manifest.json":"classifieds/docs/tech/external/yfm-build-manifest.json"
+  "yfm-build-content.json":"classifieds/docs/tech/external/yfm-build-content.json",
+  "yfm-build-manifest.json":"classifieds/docs/tech/external/yfm-build-manifest.json",
+  "yfm-build-stats.json":"classifieds/docs/tech/external/yfm-build-stats.json"
 }
