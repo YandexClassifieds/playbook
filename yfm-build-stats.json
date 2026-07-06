@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
   "cli": {
-    "version": "5.48.1",
+    "version": "5.48.2",
     "node": "v24.14.1",
     "platform": "linux",
     "arch": "x64",
     "osRelease": "5.4.210-39.4"
   },
   "build": {
-    "startedAt": "2026-07-02T14:52:15.076Z",
-    "finishedAt": "2026-07-02T14:52:25.192Z",
-    "durationMs": 10116,
+    "startedAt": "2026-07-06T15:27:00.458Z",
+    "finishedAt": "2026-07-06T15:27:08.085Z",
+    "durationMs": 7627,
     "phasesMs": {
-      "prepare": 7286,
-      "entries": 2789,
-      "finalize": 41
+      "prepare": 2619,
+      "entries": 4986,
+      "finalize": 22
     },
     "outputFormat": "md",
     "langs": [
       "ru"
     ],
-    "inputDir": "/home/sandbox/.ya/build/build_root/8mtr/00000b/classifieds/docs/tech/__s",
-    "outputDir": "/home/sandbox/.ya/build/build_root/8mtr/00000b/classifieds/docs/tech/__docsbuild",
+    "inputDir": "/home/sandbox/.ya/build/build_root/u5wk/00000b/classifieds/docs/tech/__s",
+    "outputDir": "/home/sandbox/.ya/build/build_root/u5wk/00000b/classifieds/docs/tech/__docsbuild",
     "features": [
       "addAlternateMeta",
       "addMapFile",
