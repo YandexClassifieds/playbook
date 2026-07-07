@@ -8,20 +8,20 @@
     "osRelease": "5.4.210-39.4"
   },
   "build": {
-    "startedAt": "2026-07-06T15:27:00.458Z",
-    "finishedAt": "2026-07-06T15:27:08.085Z",
-    "durationMs": 7627,
+    "startedAt": "2026-07-07T07:59:41.475Z",
+    "finishedAt": "2026-07-07T07:59:50.943Z",
+    "durationMs": 9468,
     "phasesMs": {
-      "prepare": 2619,
-      "entries": 4986,
-      "finalize": 22
+      "prepare": 6337,
+      "entries": 3089,
+      "finalize": 42
     },
     "outputFormat": "md",
     "langs": [
       "ru"
     ],
-    "inputDir": "/home/sandbox/.ya/build/build_root/u5wk/00000b/classifieds/docs/tech/__s",
-    "outputDir": "/home/sandbox/.ya/build/build_root/u5wk/00000b/classifieds/docs/tech/__docsbuild",
+    "inputDir": "/home/sandbox/.ya/build/build_root/rw4h/00000b/classifieds/docs/tech/__s",
+    "outputDir": "/home/sandbox/.ya/build/build_root/rw4h/00000b/classifieds/docs/tech/__docsbuild",
     "features": [
       "addAlternateMeta",
       "addMapFile",
@@ -73,11 +73,11 @@
   },
   "output": {
     "files": 210,
-    "totalBytes": 13570153,
+    "totalBytes": 13572089,
     "bytesByExtension": {
-      ".json": 13580,
+      ".json": 13770,
       ".yaml": 32832,
-      ".md": 1377061,
+      ".md": 1378807,
       "<noext>": 412,
       ".png": 10686917,
       ".svg": 38130,
