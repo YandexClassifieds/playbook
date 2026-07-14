@@ -8,20 +8,20 @@
     "osRelease": "5.4.210-39.4"
   },
   "build": {
-    "startedAt": "2026-07-13T13:58:52.941Z",
-    "finishedAt": "2026-07-13T13:58:59.743Z",
-    "durationMs": 6802,
+    "startedAt": "2026-07-14T15:28:24.289Z",
+    "finishedAt": "2026-07-14T15:28:30.097Z",
+    "durationMs": 5808,
     "phasesMs": {
-      "prepare": 4740,
-      "entries": 2025,
-      "finalize": 37
+      "prepare": 4232,
+      "entries": 1552,
+      "finalize": 24
     },
     "outputFormat": "md",
     "langs": [
       "ru"
     ],
-    "inputDir": "/home/sandbox/.ya/build/build_root/lnnl/00000b/classifieds/docs/tech/__s",
-    "outputDir": "/home/sandbox/.ya/build/build_root/lnnl/00000b/classifieds/docs/tech/__docsbuild",
+    "inputDir": "/home/sandbox/.ya/build/build_root/u8y7/00000b/classifieds/docs/tech/__s",
+    "outputDir": "/home/sandbox/.ya/build/build_root/u8y7/00000b/classifieds/docs/tech/__docsbuild",
     "features": [
       "addAlternateMeta",
       "addMapFile",
@@ -42,7 +42,7 @@
       "quiet",
       "sanitizeHtml"
     ],
-    "memoryUsageMb": 228,
+    "memoryUsageMb": 205,
     "worker": {
       "maxOldSpace": 0
     }
