@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
   "cli": {
-    "version": "5.48.2",
+    "version": "5.50.2",
     "node": "v24.14.1",
     "platform": "linux",
     "arch": "x64",
     "osRelease": "5.4.210-39.4"
   },
   "build": {
-    "startedAt": "2026-07-14T15:28:24.289Z",
-    "finishedAt": "2026-07-14T15:28:30.097Z",
-    "durationMs": 5808,
+    "startedAt": "2026-07-20T13:58:26.426Z",
+    "finishedAt": "2026-07-20T13:58:31.506Z",
+    "durationMs": 5080,
     "phasesMs": {
-      "prepare": 4232,
-      "entries": 1552,
-      "finalize": 24
+      "prepare": 3776,
+      "entries": 1282,
+      "finalize": 22
     },
     "outputFormat": "md",
     "langs": [
       "ru"
     ],
-    "inputDir": "/home/sandbox/.ya/build/build_root/u8y7/00000b/classifieds/docs/tech/__s",
-    "outputDir": "/home/sandbox/.ya/build/build_root/u8y7/00000b/classifieds/docs/tech/__docsbuild",
+    "inputDir": "/home/sandbox/.ya/build/build_root/6plh/00000b/classifieds/docs/tech/__s",
+    "outputDir": "/home/sandbox/.ya/build/build_root/6plh/00000b/classifieds/docs/tech/__docsbuild",
     "features": [
       "addAlternateMeta",
       "addMapFile",
@@ -42,7 +42,7 @@
       "quiet",
       "sanitizeHtml"
     ],
-    "memoryUsageMb": 205,
+    "memoryUsageMb": 210,
     "worker": {
       "maxOldSpace": 0
     }
@@ -73,11 +73,11 @@
   },
   "output": {
     "files": 210,
-    "totalBytes": 13567398,
+    "totalBytes": 13567461,
     "bytesByExtension": {
-      ".json": 13770,
+      ".json": 13792,
       ".yaml": 32832,
-      ".md": 1374116,
+      ".md": 1374157,
       "<noext>": 412,
       ".png": 10686917,
       ".svg": 38130,
